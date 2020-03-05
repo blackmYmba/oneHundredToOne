@@ -10,12 +10,31 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "1.8.1",
+    "@react-native-community/masked-view": "0.1.7",
+    "@react-navigation/bottom-tabs": "5.1.0",
+    "@react-navigation/native": "5.0.8",
+    "@react-navigation/stack": "5.1.0",
+    "immer": "6.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-elements": "1.2.7",
+    "react-native-flip-timer": "0.0.4",
+    "react-native-gesture-handler": "1.6.0",
+    "react-native-reanimated": "1.7.0",
+    "react-native-safe-area-context": "0.7.3",
+    "react-native-screens": "2.2.0",
+    "react-native-splash-screen": "3.2.0",
+    "react-native-vector-icons": "6.6.0",
+    "react-native-vkontakte-login": "1.0.0",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5",
+    "redux-actions": "2.6.5",
+    "redux-immer": "1.0.4"
   },
   "devDependencies": {
     "@babel/core": "7.8.6",
-    "@babel/runtime": "7.8.4",
+    "@babel/runtime": "^7.8.4",
     "@react-native-community/eslint-config": "0.0.5",
     "babel-jest": "24.9.0",
     "eslint": "6.8.0",
