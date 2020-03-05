@@ -12,5 +12,7 @@ for IOS:
 
 for Android:
 
-3. ToDoAppExample > android > local.properties (поменять строчку на путь до своего sdk)
+3. ToDoAppExample > android > создать файл - local.properties и добавить строчку - путь до своего sdk. Например (sdk.dir = /Users/VictorK/Library/Android/sdk)
 4. react-native run-android
+
+Приложение должно запуститься на эмуляторе и работать.
