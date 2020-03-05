@@ -1,14 +1,14 @@
 Пошаговый запуск.
 
-git clone https://github.com/blackmYmba/oneHundredToOne.git
-npm i
+1. git clone https://github.com/blackmYmba/oneHundredToOne.git
+2. npm i
 for IOS:
 
-cd ios
-pod install
-cd ../
-react-native run-ios
+3. cd ios
+4. pod install
+5. cd ../
+6. react-native run-ios
 for Android:
 
-ToDoAppExample > android > local.properties (поменять строчку на путь до своего sdk)
-react-native run-android
+3. ToDoAppExample > android > local.properties (поменять строчку на путь до своего sdk)
+4. react-native run-android
